@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ttt-profile/static/css/main.a8eb6fff.css",
+    "main.js": "/ttt-profile/static/js/main.2fb22668.js",
+    "index.html": "/ttt-profile/index.html",
+    "main.a8eb6fff.css.map": "/ttt-profile/static/css/main.a8eb6fff.css.map",
+    "main.2fb22668.js.map": "/ttt-profile/static/js/main.2fb22668.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8eb6fff.css",
+    "static/js/main.2fb22668.js"
+  ]
+}
