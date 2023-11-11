@@ -1,0 +1,47 @@
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1%;
+}
+.post-count {
+  display: inline-block;
+  padding: 6px;
+  border-top: 1px solid grey;
+  border-right: 1px solid grey;
+  color: aqua;
+  text-align: left;
+}
+
+.hoz {
+  display: flex;
+}
+
+.hr {
+  flex: 1;
+  border: none;
+  border-bottom: 1px solid grey;
+  margin: 0;
+}
+
+.desc-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.rtype {
+  color: aqua;
+}
+
+.content {
+  text-align: left;
+  padding: 2%;
+}

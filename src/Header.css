@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  background-color: black;
+  align-items: center;
+  height: 8%;
+  color: white;
+}
+
+.img1 {
+  height: 8vh;
+  width: 8vh;
+  border-radius: 50%;
+}
+
+.t1 {
+  margin-left: 10px;
+}
+
+.btn {
+  background-color: gold;
+  margin-left: auto;
+  border-radius: 7%;
+  padding: 10px;
+  margin-right: 8px;
+}
+.img2 {
+  height: 25vh;
+  width: 100%;
+  position: relative;
+}
+
+.img3 {
+  height: 15vh;
+  width: 15vh;
+  background-color: aliceblue;
+  border-radius: 50%;
+  position: absolute;
+  top: 28vh;
+  left: 10%;
+}
+
+.user-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.user-details h3 {
+  margin: 10px 0;
+}
+
+.user-details .verified {
+  color: green;
+}
+.user-details .diamond {
+  color: purple;
+}
+
+.box {
+  border: 1px solid grey;
+  border-radius: 10%;
+  padding: 5px;
+  /* margin-inline-end: 15px; */
+  /* display: flex; */
+  justify-content: space-between;
+}
+.box span {
+  margin: 0;
+  padding: 0;
+}
+.flow {
+  display: flex;
+}
+.f1 {
+  color: grey;
+}
+.f2 {
+  color: grey;
+  margin-left: auto;
+}
+.p-details {
+  justify-content: space-around;
+}
+.pos {
+  margin: 10px;
+  margin-top: 0;
+  padding: 10px;
+  padding-top: 0;
+  font-size: 2vh;
+  text-align: left;
+}
+.pos a {
+  margin: 5px;
+  color: rgb(0, 187, 255);
+  text-decoration: none;
+  cursor: pointer;
+}
+.icon {
+  margin: 5px;
+}
